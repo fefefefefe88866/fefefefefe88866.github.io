@@ -1,6 +1,7 @@
 # Weimufei Wu — Personal homepage
 
-A lightweight, responsive academic homepage prepared for GitHub Pages.
+A lightweight, responsive academic homepage prepared for GitHub Pages. The
+visual style intentionally stays close to the original Google Sites version.
 
 ## Preview locally
 
@@ -23,7 +24,7 @@ GitHub will display the public site URL after the first deployment completes.
 
 ## Content source
 
-Content was migrated from the original Google Sites pages:
+Content and visual direction were migrated from the original Google Sites pages:
 
 - <https://sites.google.com/view/mufei/about>
 - <https://sites.google.com/view/mufei/research-projects>
